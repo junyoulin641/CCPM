@@ -1,0 +1,27 @@
+{
+  "enableAllProjectMcpServers": false,
+  
+  "permissions": {
+    "allow": [
+      "Edit:*",
+      "Write:*",
+      "MultiEdit:*",
+      "Bash(git:*)",
+      "Bash(cat:*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(sed:*)",
+      "Bash(date:*)",
+      "Bash(wc:*)",
+      "Skill(code-style)",
+      "Skill(code-format)"
+    ],
+    "defaultMode": "acceptEdits"
+  },
+  "env": {
+    "AUTHOR_NAME": "Jim.lin",
+    "COMPANY_NAME": "RoyalTek Company Limited",
+    "AUTHOR_EMAIL": "Jim.lin@royaltek.com"
+  }
+}
