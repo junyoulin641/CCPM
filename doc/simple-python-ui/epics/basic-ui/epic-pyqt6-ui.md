@@ -1,8 +1,8 @@
 ---
 name: epic-pyqt6-ui
-status: backlog
+status: completed
 created: 2025-12-18T05:44:24Z
-progress: 0%
+progress: 100%
 prd: ./doc/simple-python-ui/prds/basic-ui.md
 github: https://github.com/junyoulin641/CCPM/issues/2
 ---
