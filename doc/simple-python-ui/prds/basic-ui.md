@@ -1,7 +1,7 @@
 ---
 name: basic-ui
 description: Simple PyQt6 single-window interface with text input and action buttons for experimentation
-status: backlog
+status: implemented
 created: 2025-12-10T08:53:20Z
 ---
 
